@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# dotenv environment variable files
+.env
+.env.example
+
+# Coverage directory used by tools like istanbul
+*.lcov
